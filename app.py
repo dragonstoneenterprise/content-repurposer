@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 # Configuration
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
-GUMROAD_PRO_LINK = "https://dragonstone.gumroad.com/l/content-repurposer-pro"
+GUMROAD_PRO_LINK = "https://9245368029329.gumroad.com/l/tnlfjv"
 GUMROAD_AGENCY_LINK = "https://dragonstone.gumroad.com/l/content-repurposer-agency"
 
 # Page config
